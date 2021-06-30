@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b1b5c592-64f6-41c7-a50b-80c2a0155dad" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AddressBook.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/addressBook.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/sg/addressbook/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/controller/AddressBookController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/AddressBookDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/AddressBookDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dto/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/AddressBookView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/UserIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/UserIOImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/controller/AddressBookController.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dao/AddressBookDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dao/AddressBookDaoImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dto/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assessment1/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assessment1/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assessment1/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assessment1/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assessment1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assessment1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assessment1/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assessment1/src/main/java/dogGenetics/DogGenetics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assessment1/src/main/java/healthyHearts/HealthyHearts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assessment1/src/main/java/rocksPapersScissors/RocksPapersScissors.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assessment1/src/main/java/summativeSum/SummativeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assessment1/target/classes/dogGenetics/DogGenetics.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assessment1/target/classes/healthyHearts/HealthyHearts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assessment1/target/classes/rocksPapersScissors/RocksPapersScissors.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assessment1/target/classes/summativeSum/SummativeSum.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class Roster/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class Roster/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class Roster/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class Roster/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class Roster/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class Roster/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class Roster/roster.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class Roster/src/main/java/com/sg/classroster/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class Roster/src/main/java/com/sg/classroster/controller/ClassRosterController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class Roster/src/main/java/com/sg/classroster/dao/ClassRosterDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class Roster/src/main/java/com/sg/classroster/dao/ClassRosterDaoException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class Roster/src/main/java/com/sg/classroster/dao/ClassRosterDaoFileImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class Roster/src/main/java/com/sg/classroster/dto/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class Roster/src/main/java/com/sg/classroster/ui/ClassRosterView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class Roster/src/main/java/com/sg/classroster/ui/UserIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Class Roster/src/main/java/com/sg/classroster/ui/UserIOConsoleImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/target/classes/ShapesAndPerimeters/Circle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/target/classes/ShapesAndPerimeters/Rectangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/target/classes/ShapesAndPerimeters/Shape.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/target/classes/ShapesAndPerimeters/Square.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/target/classes/ShapesAndPerimeters/Triangle.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/target/classes/StateCapitals1/StateCapitals.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/target/classes/UserIOClassLab/UserIO.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/target/classes/UserIOClassLab/UserIOImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Classes and Objects/target/classes/UserIOClassLab/UserIOTesting.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasics/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasics/target/classes/InterestCalculator.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StateCapitals2/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/src/main/java/RPC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/target/classes/RPC.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../JavaBasics/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../JavaBasics/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PracticeProgramming" beforeDir="false" afterPath="$PROJECT_DIR$/../PracticeProgramming" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1udmKUUWKboFDeYxn4KzxFcXm3H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+      <recent name="$PROJECT_DIR$/target" />
+      <recent name="$PROJECT_DIR$/src/main/" />
+      <recent name="$PROJECT_DIR$/src/main" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sg.addressbook.App" />
+      <module name="AddressBook" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sg.addressbook.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b1b5c592-64f6-41c7-a50b-80c2a0155dad" name="Default Changelist" comment="" />
+      <created>1624966633014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624966633014</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/controller/AddressBookController.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/controller/AddressBookController.java</url>
+          <line>46</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/controller/AddressBookController.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/controller/AddressBookController.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
